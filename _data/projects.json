@@ -1,30 +1,42 @@
 [
 	{
-		"name": "Cool project 1",
+		"name": "911groundzero.com",
+        "desc": "",
 		"image": "placeholder.jpg",
-		"url": "#",
-		"date": "Jan 2014",
-		"tags": ["Angular JS","API"]
+		"url": "911groundzero.com",
+		"date": "August 2017",
+		"tags": ["Perch CMS","Bootstrap 4", "Gulp"]
 	},
 	{
-		"name": "Cool project 2",
+		"name": "LAtour1.com",
+        "desc": "A small site for a small tourism operator built with a lightweight DIY CMS (to avoid CMS-framework bloat.)  I modified the Swiper image slider by using the srcset attribute for responsive image loading.  Also designed the logo and ensured the site is SEO-friendly.",
 		"image": "placeholder.jpg",
-		"url": "#",
-		"date": "May 2014",
-		"tags": ["Android","PHP"]
+		"url": "LAtour1.com",
+		"date": "April 2017",
+		"tags": ["Perch CMS","Bootstrap 3"]
 	},
 	{
-		"name": "Cool project 3",
+		"name": "paristour1.com",
+        "desc": "A small site for a small tourism operator built with a lightweight DIY CMS (to avoid CMS-framework bloat.)  I modified the Swiper image slider by using the srcset attribute for responsive image loading.  Also designed the logo and ensured the site is SEO-friendly.",
 		"image": "placeholder.jpg",
-		"url": "#",
-		"date": "June 2014",
+		"url": "paristour1.com",
+		"date": "May 2017",
 		"tags": ["HTML","JQuery","PHP"]
 	},
 	{
-		"name": "Cool project 4",
+		"name": "Interactive Cards Demo App",
+         "desc": "My first time diving into really using React for a web app. It lets you create decks of cards, add text to cards, and interact with them. I took the demo a step further by adding Material Design Lite for a nicer look. [original tutorial: https://code.tutsplus.com/courses/modern-web-apps-with-react-and-redux/ ]",
 		"image": "placeholder.jpg",
-		"date": "Oct 2016",
-		"tags": ["Android","nodejs"]
+        "url" : "https://deckstudy.herokuapp.com/",
+		"date": "April 2017",
+		"tags": ["Node.js", "React","Redux","Express","Heroku", "Material Design Lite"]
+	},
+	{
+		"name": "To-Do List App",
+        "desc": "My first Angular 2 [original tutorial: https://www.youtube.com/watch?v=PFP0oXNNveg",
+		"image": "placeholder.jpg",
+		"date": "March 2017",
+		"tags": ["Node.js","Angular 2","Heroku","Express","mlab.com"]
 	}
 
 ]
