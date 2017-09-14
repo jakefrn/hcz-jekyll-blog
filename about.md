@@ -2,10 +2,9 @@
 layout: page
 title: About
 permalink: /about/
+published: false
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Currently designing, building, and researching solutions in web, digital marketing, and customer experience for a top-rated local tour operator and portfolio of related brands to provide website visitors with nice digital experiences.
 
-You can find the source code for this Jekyll theme at: [github.com/ashutosh2k12/hcz-jekyll-blog](https://github.com/ashutosh2k12/hcz-jekyll-blog)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Hobbies include skimming through books, beating my high-score of 500+ hours of podcasts listened to on the Stitcher app, and combating the sedentary lifestyle with the gym, running, and stealthy stretches in the office bathroom. And tea.
