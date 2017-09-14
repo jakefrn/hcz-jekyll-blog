@@ -20,7 +20,7 @@ published: true
     			<h3 class="project-headlines">{{ i.name }}</h3>
     			{% if i.url %} </a> {% endif %}
     			<div class="project-content">
-    			 {% if i.desc %}
+    			 {{ i.desc }}
     			</div>
     			<div class="project-footer"> 
     				{% if i.url %} 
