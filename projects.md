@@ -2,6 +2,5 @@
 layout: project
 title: Projects
 permalink: /projects/
+published: true
 ---
-
-Few of my projects.
