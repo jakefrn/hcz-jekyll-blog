@@ -1,21 +1,21 @@
 title: Jake Franek
 description: Portfolio + Blog
 author: Jake
-logo: /hcz-jekyll-blog/static/img/avatar.png
-github: https://github.com/codeasashu
-about: Freelance developer
+logo: /portfolio/static/img/avatar.png
+github: https://github.com/jakefrn
+about: Digital Creative Strategist / Dev
 
-baseurl: "https://codeasashu.github.io/hcz-jekyll-blog"
-url: "https://codeasashu.github.io/hcz-jekyll-blog"
+baseurl: "jakefr.me"
+url: "jakefr.me"
 
-allowsearch: true
+allowsearch: false
 
-disqus_shortname: aboutashu
-google_analytics: UA-72862926-1
+disqus_shortname: \#
+google_analytics: \#
 
 share:
   twitter_username: \#
-  fb_appid: 000000000000
+  fb_appid: \#
 
 
 enableTags: true
