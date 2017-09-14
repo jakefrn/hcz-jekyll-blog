@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-published: false
+published: true
 ---
 
 Currently designing, building, and researching solutions in web, digital marketing, and customer experience for a top-rated local tour operator and portfolio of related brands to provide website visitors with nice digital experiences.
