@@ -5,7 +5,7 @@ logo: /portfolio/static/img/avatar.png
 github: https://github.com/jakefrn
 about: Digital Creative Strategist / Dev
 
-baseurl: "jakefrn.me"
+baseurl: "https://codeasashu.github.io/hcz-jekyll-blog"
 url: "https://jakefrn.github.io/portfolio"
 
 allowsearch: false
