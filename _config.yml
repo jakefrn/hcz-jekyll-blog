@@ -5,8 +5,8 @@ logo: /portfolio/static/img/avatar.png
 github: https://github.com/jakefrn
 about: Digital Creative Strategist / Dev
 
-baseurl: "jakefr.me"
-url: "jakefr.me"
+baseurl: "https://github.com/jakefrn/portfolio"
+url: "https://github.com/jakefrn/portfolio"
 
 allowsearch: false
 
