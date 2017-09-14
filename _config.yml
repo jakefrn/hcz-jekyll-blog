@@ -10,12 +10,12 @@ url: "https://jakefrn.github.io/portfolio"
 
 allowsearch: false
 
-disqus_shortname: dsfsdfsdf
-google_analytics: UA-72862926-1
+disqus_shortname: \#
+google_analytics: \#
 
 share:
   twitter_username: \#
-  fb_appid: 000000000000
+  fb_appid: \#
 
 
 enableTags: true
