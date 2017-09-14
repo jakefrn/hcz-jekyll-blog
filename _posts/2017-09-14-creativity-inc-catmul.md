@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## "Visual polish doesn't matter if you get the story right."
 
