@@ -1,7 +1,7 @@
 [
 	{
 		"name": "911groundzero.com",
-        "desc": "",
+        "desc": "A small SEO-friendly site for a small tourism operator built with a lightweight DIY CMS (to avoid CMS-framework bloat.) and BS4.",
 		"image": "911gz.jpg",
 		"url": "https://911groundzero.com",
 		"date": "August 2017",
@@ -9,7 +9,7 @@
 	},
 	{
 		"name": "LAtour1.com",
-        "desc": "A small site for a small tourism operator built with a lightweight DIY CMS (to avoid CMS-framework bloat.)  I modified the Swiper image slider by using the srcset attribute for responsive image loading.  Also designed the logo and ensured the site is SEO-friendly.",
+        "desc": "A small SEO-friendly site for a small tourism operator built with a lightweight DIY CMS (to avoid CMS-framework bloat.)  I modified the Swiper image slider by using the srcset attribute for responsive image loading.  Also designed the logo and ensured the site is SEO-friendly.",
 		"image": "latour.jpg",
 		"url": "https://latour1.com",
 		"date": "April 2017",
@@ -17,7 +17,7 @@
 	},
 	{
 		"name": "paristour1.com",
-        "desc": "A small site for a small tourism operator built with a lightweight DIY CMS (to avoid CMS-framework bloat.)  I modified the Swiper image slider by using the srcset attribute for responsive image loading.  Also designed the logo and ensured the site is SEO-friendly.",
+        "desc": "A small SEO-friendly site for a small tourism operator built with a lightweight DIY CMS (to avoid CMS-framework bloat.)  I modified the Swiper image slider by using the srcset attribute for responsive image loading.  Also designed the logo and ensured the site is SEO-friendly.",
 		"image": "paristour.jpg",
 		"url": "https://paristour1.com",
 		"date": "May 2017",
