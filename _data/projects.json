@@ -1,4 +1,12 @@
 [
+  	{
+		"name": "Content ccraping theskin.com",
+        "desc": "theskint.com is a daily newsletter and website that lists dozens of actvities in NYC. I made a quick and dirty app that lets you save these events on my phone by scraping the text and feeding it into a list.",
+		"image": "skint.jpg",
+		"url": "",
+		"date": "September 2017",
+		"tags": ["Node.js","Material Design Lite"]
+	},
 	{
 		"name": "911groundzero.com",
         "desc": "A small SEO-friendly site for a small tourism operator built with a lightweight DIY CMS (to avoid CMS-framework bloat.) and BS4.",
