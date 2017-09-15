@@ -1,6 +1,6 @@
 [
   	{
-		"name": "Content ccraping theskin.com",
+		"name": "Content scraping theskint.com",
         "desc": "theskint.com is a daily newsletter and website that lists dozens of actvities in NYC. I made a quick and dirty app that lets you save these events on my phone by scraping the text and feeding it into a list.",
 		"image": "skint.jpg",
 		"url": "",
