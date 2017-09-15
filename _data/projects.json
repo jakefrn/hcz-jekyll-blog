@@ -29,7 +29,7 @@
 		"image": "paristour.jpg",
 		"url": "https://paristour1.com",
 		"date": "May 2017",
-		"tags": ["HTML","JQuery","PHP"]
+		"tags": ["HTML","JQuery","Perch CMS", "PHP"]
 	},
 	{
 		"name": "Interactive Cards Demo App",
@@ -46,6 +46,15 @@
 		"image": "todo.jpg",
 		"date": "March 2017",
 		"tags": ["Node.js","Angular 2","Heroku","Express","mlab.com"]
+	},
+  	{
+		"name": "newyorktour1.com",
+        "desc": "A small SEO-friendly site for a small tourism operator built with a lightweight DIY CMS (to avoid CMS-framework bloat.)  I modified the Swiper image slider by using the srcset attribute for responsive image loading.  Also designed the logo and ensured the site is SEO-friendly.",
+		"image": "nyt1.jpg",
+		"url": "https://newyorktour1.com",
+		"date": "January 2017",
+		"tags": ["HTML","Bootstrap 3", "Perch CMS" "PHP"]
 	}
+  
 
 ]
