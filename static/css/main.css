@@ -1,5 +1,3 @@
-body{border:solid 5px red}
- 
 
 .main.outer{padding-top: 50px;}
 .header-panel.shadow-z-2 {
@@ -223,3 +221,5 @@ footer {
     position: absolute;
     right: 12px;
 }
+
+body{background-color:#FFF} 
