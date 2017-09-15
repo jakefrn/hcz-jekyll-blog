@@ -97,9 +97,15 @@ p.info a {
     margin: 5px 0;
 }
 
+
 .menu ul li a:hover, .menu ul li a:focus, li.current-menu-item > a{
     background:#e8006a ;
 }
+
+nav.menu {
+    background: pink
+}
+
 li.current-menu-item:before {
     content: "";
     display: inline-block;
