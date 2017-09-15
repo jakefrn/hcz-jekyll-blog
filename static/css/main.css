@@ -16,8 +16,13 @@ iframe{
 }
 
 
-.well-primary,.header-panel.shadow-z-2 {
- background-color: red;
+a, a:focus, a:hover {
+    color:red !important;
+}
+
+.well-primary,
+.header-panel.shadow-z-2 {
+ background-color: red !important;
 } 
 
 
