@@ -3,7 +3,7 @@
   transition: all 0.3s cubic-bezier(.25,.8,.25,1);
 }
 
-a{color: #3e3e3e }
+a, a:hover {color: #3e3e3e }
 
 iframe{
   width:100%;
