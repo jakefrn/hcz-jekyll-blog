@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## (Quote) Jumping to A/b Testing
 
