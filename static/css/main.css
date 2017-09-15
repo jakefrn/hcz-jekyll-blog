@@ -103,7 +103,7 @@ p.info a {
 }
 
 nav.menu {
-    background: pink
+    background: pink;
 }
 
 li.current-menu-item:before {
