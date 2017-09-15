@@ -2,14 +2,7 @@
       <div class="container">
         <div class="row">
           <div class="col-sm-4 col-xs-12">
-            <div class="row-picture">
-              <img id="about" class="logo-img" src="{{ site.logo }}" height="75px" width="75px">
-            </div>
-            <div class="row-details">
-              <h4 class="list-group-item-heading">{{ site.author }}</h4>
-              <p class="list-group-item-text">{{ site.about }}</p>
-              {% include social_links.html %}
-            </div>
+
             <div class="navbar-header pull-right">
               <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
                 <span class="sr-only">Toggle navigation</span>
@@ -20,7 +13,6 @@
           <div class="col-md-9 col-sm-8 col-xs-12">
           <div class="row">
             <h2 class="blog-title-pro {% if site.allowsearch ==  true %}col-md-6 col-sm-12 col-xs-12 {% endif %}">{{ page.title }}</h2>
-             
             </div>
             <p class="info">
               {% if page.date %}
