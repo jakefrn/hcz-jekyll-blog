@@ -8,12 +8,10 @@ published: true
       {% for post in paginator.posts %}
       <div class="list-group-item">
         <div class="row-action-primary">
-          <i class="fa fa-sticky-note hidden-xs hidden-sm"></i>
+         <a href="{{ post.url | prepend: site.baseurl }}"> <i class="fa fa-sticky-note hidden-xs hidden-sm"></i></a>
         </div>
         <div class="row-content">
           <div class="least-content">{{ post.date | date_to_string }}</div>
-          <h4 class="list-group-item-heading"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h4>
-
           <p class="list-group-item-text">{{ post.content }}</p>
         </div>
       </div>
