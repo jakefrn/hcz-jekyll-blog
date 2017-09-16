@@ -1,8 +1,6 @@
 ---
 published: true
 ---
-## "Visual polish doesn't matter if you get the story right."
-
 From the book 'Creativity, Inc' by Ed Catmull (Co-founder of Pixar)
 
 An excerpt from the book 'Creativity, Inc' by Ed Catmull (Co-founder of Pixar). He describes a scenario early in his career when a film he was involved in making didn't get finished in time. They showed it anyway, nervously, with unrendered scenes. To his surprise most of the audience didn't notice or care, because they were so absored in the story. 
