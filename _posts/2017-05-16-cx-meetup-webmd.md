@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 "Just because you can, doesn't mean you should."
 
