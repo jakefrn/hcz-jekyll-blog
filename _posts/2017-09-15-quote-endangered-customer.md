@@ -1,7 +1,6 @@
 ---
 published: true
 ---
-## "Don't tell me no."
+![donttellmeno.jpg]({{site.baseurl}}/static/img/donttellmeno.jpg)
 
 From 'The Endangered Customer' by Richard Shapiro
-![donttellmeno.jpg]({{site.baseurl}}/static/img/donttellmeno.jpg)
