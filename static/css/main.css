@@ -29,6 +29,7 @@ iframe{
  background-color: #9e9e9e !important ;
 } 
 
+.well{box-shadow: 0 3px 6px rgba(0,0,0, 0), 0 3px 6px rgba(0,0,0,0.13) !important}
 
 .full{ font-size: 16px; }
 
