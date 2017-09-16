@@ -11,8 +11,8 @@ published: true
          <a href="{{ post.url | prepend: site.baseurl }}"> <i class="fa fa-sticky-note hidden-xs hidden-sm"></i></a>
         </div>
         <div class="row-content">
-          <div class="least-content">{{ post.date | date_to_string }}</div>
           <p class="list-group-item-text">{{ post.content }}</p>
+           <div class="least-content" style="align:right">{{ post.date | date_to_string }}</div>
         </div>
       </div>
       <div class="list-group-separator"></div>
