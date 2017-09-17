@@ -198,4 +198,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', e
     }
 }
  
-body{background-color:#FFF}
+body{background-color:#FFF;}
+
+.list-group .list-group-item {padding: 2.5em 0 3em;}
+    
