@@ -3,7 +3,8 @@ description: Portfolio + Blog
 author: Jake
 logo: /static/img/avatar.jpeg
 github: https://github.com/jakefrn
-about: <strong>Digital Creative Strategist</strong><br> Filler text here
+about: Digital Creative Strategist
+intro: Filler text here
 
 baseurl: "http://jakefr.me"
 url: "https://jakefrn.github.io/portfolio"
