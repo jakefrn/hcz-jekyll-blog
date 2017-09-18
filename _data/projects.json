@@ -3,7 +3,7 @@
 		"name": "Content scraping theskint.com",
         "desc": "A weekend project- For years I've checked theskint.com for things to do in NYC. To make saving events a little easier, I built this basic app to scrape the content and feed it into a checklist.",
 		"image": "skint.jpg",
-		"url": "",
+		"url": "https://glacial-taiga-12612.herokuapp.com/",
 		"date": "September 2017",
 		"tags": ["Node.js","Material Design Lite"]
 	},
