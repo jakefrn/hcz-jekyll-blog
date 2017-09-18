@@ -1,7 +1,7 @@
 [
   	{
 		"name": "Content scraping theskint.com",
-        "desc": "A quick weekend project- For years I've checked theskint.com for things to do in NYC. To make saving events a little easier, I built this basic app to scrape the content and feed it into a checklist.",
+        "desc": "A weekend project- For years I've checked theskint.com for things to do in NYC. To make saving events a little easier, I built this basic app to scrape the content and feed it into a checklist.",
 		"image": "skint.jpg",
 		"url": "",
 		"date": "September 2017",
