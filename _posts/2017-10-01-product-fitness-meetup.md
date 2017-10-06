@@ -3,7 +3,7 @@ published: true
 ---
 ## productFitn(ness) - a meetup group
 
-_...for people who produce or use apps and tech for personal fitness and health._
+_...for people who produce or use apps and tech for personal fitness, health, and well-being._
 
 
 [meetup.com/product-fitness](https://www.meetup.com/product-fitness)
