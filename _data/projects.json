@@ -13,7 +13,7 @@
         "desc": "A small SEO-friendly site for a small tourism operator built with a lightweight DIY CMS (to avoid CMS-framework bloat.) and BS4.",
 		"image": "911gz.jpg",
 		"url": "https://911groundzero.com",
-        "github": "#",
+        "github": "",
 		"date": "August 2017",
 		"tags": ["Perch CMS","Bootstrap 4", "Gulp"]
 	},
