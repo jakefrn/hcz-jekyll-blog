@@ -5,6 +5,7 @@
 		"image": "skint.jpg",
 		"url": "https://glacial-taiga-12612.herokuapp.com/",
 		"date": "September 2017",
+		"github": "https://github.com/jakefrn/skint",      
 		"tags": ["Node.js","Material Design Lite"]
 	},
 	{
@@ -12,6 +13,7 @@
         "desc": "A small SEO-friendly site for a small tourism operator built with a lightweight DIY CMS (to avoid CMS-framework bloat.) and BS4.",
 		"image": "911gz.jpg",
 		"url": "https://911groundzero.com",
+        "github": "#",
 		"date": "August 2017",
 		"tags": ["Perch CMS","Bootstrap 4", "Gulp"]
 	},
@@ -20,6 +22,7 @@
         "desc": "A small SEO-friendly site for a small tourism operator built with a lightweight DIY CMS (to avoid CMS-framework bloat.)  I modified the Swiper image slider by using the srcset attribute for responsive image loading.  Also designed the logo and ensured the site is SEO-friendly.",
 		"image": "latour.jpg",
 		"url": "https://latour1.com",
+        "github": "#",
 		"date": "April 2017",
 		"tags": ["Perch CMS","Bootstrap 3"]
 	},
@@ -28,6 +31,7 @@
         "desc": "A small SEO-friendly site for a small tourism operator built with a lightweight DIY CMS (to avoid CMS-framework bloat.)  I modified the Swiper image slider by using the srcset attribute for responsive image loading.  Also designed the logo and ensured the site is SEO-friendly.",
 		"image": "paristour.jpg",
 		"url": "https://paristour1.com",
+        "github": "#",
 		"date": "May 2017",
 		"tags": ["HTML","JQuery","Perch CMS", "PHP"]
 	},
@@ -35,6 +39,7 @@
 		"name": "Interactive Cards Demo App",
          "desc": "My first time diving into really using React for a web app. It lets you create decks of cards, add text to cards, and interact with them. I took the demo a step further by adding Material Design Lite for a nicer look. [original tutorial: https://code.tutsplus.com/courses/modern-web-apps-with-react-and-redux/ ]",
 		"image": "cards.jpg",
+        "github": "#",
         "url" : "https://deckstudy.herokuapp.com/",
 		"date": "April 2017",
 		"tags": ["Node.js", "React","Redux","Express","Heroku", "Material Design Lite"]
@@ -44,6 +49,7 @@
         "desc": "My first Angular 2 [original tutorial: https://www.youtube.com/watch?v=PFP0oXNNveg",
          "url" : "https://whispering-wildwood-87042.herokuapp.com/",
 		"image": "todo.jpg",
+        "github": "#",
 		"date": "March 2017",
 		"tags": ["Node.js","Angular 2","Heroku","Express","mlab.com"]
 	},
@@ -51,6 +57,7 @@
 		"name": "newyorktour1.com",
         "desc": "A small SEO-friendly site for a small tourism operator built with a lightweight DIY CMS (to avoid CMS-framework bloat.)  I modified the Swiper image slider by using the srcset attribute for responsive image loading.  Also designed the logo and ensured the site is SEO-friendly.",
 		"image": "nyt1.jpg",
+         "github": "#",
 		"url": "https://newyorktour1.com",
 		"date": "January 2017",
 		"tags": ["HTML","Bootstrap 3", "Perch CMS", "PHP"]
