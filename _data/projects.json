@@ -1,5 +1,15 @@
 [
   	{
+		"name": "Google Script",
+        "desc": "A basic script that fetches events from an ICAL URL, parses them, then posts to Google Calendar",
+		"image": "gcal.jpg",
+		"url": "https://github.com/jakefrn/icaltogooglecal",
+		"date": "August 2017",
+		"github": "https://github.com/jakefrn/icaltogooglecal",      
+		"tags": ["Javascript"]
+	},  
+  
+  	{
 		"name": "Content scraping theskint.com",
         "desc": "A weekend project- For years I've checked theskint.com for things to do in NYC. To make saving events a little easier, I built this basic app to scrape the content and feed it into a checklist.",
 		"image": "skint.jpg",
