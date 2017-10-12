@@ -150,6 +150,7 @@ h2.blog-title-pro:after {
     margin-left: 3px;
     background: rgba(255, 255, 255, 0.72);
 }
+h2{margin-top:14px}
 span.tags{ margin: 0 2px;cursor: pointer;display: inline-block;}
 .card .card-image .card-image-headline-custom{
     position: absolute;
