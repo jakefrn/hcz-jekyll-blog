@@ -60,11 +60,27 @@
 	},
   	{
 		"name": "newyorktour1.com",
-        "desc": "A small SEO-friendly site for a small tourism operator built with a lightweight DIY CMS (to avoid CMS-framework bloat.)  I modified the Swiper image slider by using the srcset attribute for responsive image loading.  Also designed the logo and ensured the site is SEO-friendly.",
+        "desc": "A small SEO-friendly site for a small tourism operator built with a lightweight DIY CMS (to avoid CMS-framework bloat.)  I modified the Swiper image slider by using the srcset attribute for responsive image loading. Also designed the logo and ensured the site is SEO-friendly.",
 		"image": "nyt1.jpg",
 		"url": "https://newyorktour1.com",
 		"date": "January 2017",
 		"tags": ["HTML","Bootstrap 3", "Perch CMS", "PHP"]
+	},
+  	{
+		"name": "Basic Landing Page 1",
+        "desc": "Webpage design for a fictional VR analytics company. Made with UI Kit Css",
+		"image": "6axis.jpg",
+		"url": "http://jakefrn.surge.sh/6axis/",
+		"date": "May 2016",
+		"tags": ["HTML","Bootstrap 3", "CSS"]
+	},
+  	{
+		"name": "Basic Landing Page 1",
+        "desc": "Webpage design for a fictional coworking space. Made with Material Bootstrap CSS",
+		"image": "cowork.jpg",
+		"url": "http://jakefrn.surge.sh/spacely/",
+		"date": "April 2016",
+		"tags": ["HTML","Bootstrap 3", "CSS"]
 	}
   
 
