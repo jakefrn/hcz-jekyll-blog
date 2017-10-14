@@ -8,7 +8,6 @@
 		"github": "https://github.com/jakefrn/icaltogooglecal",      
 		"tags": ["Javascript"]
 	},  
-  
   	{
 		"name": "Content scraping theskint.com",
         "desc": "A weekend project- For years I've checked theskint.com for things to do in NYC. To make saving events a little easier, I built this basic app to scrape the content and feed it into a checklist.",
@@ -20,7 +19,7 @@
 	},
 	{
 		"name": "911groundzero.com",
-        "desc": "A small SEO-friendly site for a small tourism operator built with a lightweight DIY CMS (to avoid CMS-framework bloat.) and BS4.",
+        "desc": "A small SEO-friendly site for a small tourism operator built with a lightweight DIY CMS.",
 		"image": "911gz.jpg",
 		"url": "https://911groundzero.com",
 		"date": "August 2017",
@@ -28,7 +27,7 @@
 	},
 	{
 		"name": "LAtour1.com",
-        "desc": "A small SEO-friendly site for a small tourism operator built with a lightweight DIY CMS (to avoid CMS-framework bloat.)  I modified the Swiper image slider by using the srcset attribute for responsive image loading.  Also designed the logo and ensured the site is SEO-friendly.",
+        "desc": "A small SEO-friendly site for a small tourism operator built with a lightweight DIY CMS. I modified the Swiper image slider by using the srcset attribute for responsive image loading.  Also designed the logo and ensured the site is SEO-friendly.",
 		"image": "latour.jpg",
 		"url": "https://latour1.com",
 		"date": "April 2017",
@@ -36,7 +35,7 @@
 	},
 	{
 		"name": "paristour1.com",
-        "desc": "A small SEO-friendly site for a small tourism operator built with a lightweight DIY CMS (to avoid CMS-framework bloat.)  I modified the Swiper image slider by using the srcset attribute for responsive image loading.  Also designed the logo and ensured the site is SEO-friendly.",
+        "desc": "A small SEO-friendly site for a small tourism operator built with a lightweight DIY CMS.  I modified the Swiper image slider by using the srcset attribute for responsive image loading.  Also designed the logo and ensured the site is SEO-friendly.",
 		"image": "paristour.jpg",
 		"url": "https://paristour1.com",
 		"date": "May 2017",
@@ -60,7 +59,7 @@
 	},
   	{
 		"name": "newyorktour1.com",
-        "desc": "A small SEO-friendly site for a small tourism operator built with a lightweight DIY CMS (to avoid CMS-framework bloat.)  I modified the Swiper image slider by using the srcset attribute for responsive image loading. Also designed the logo and ensured the site is SEO-friendly.",
+        "desc": "A small SEO-friendly site for a small tourism operator built with a lightweight DIY CMS (to avoid bloat.)  I modified the Swiper image slider by using the srcset attribute for responsive image loading. Also designed the logo and ensured the site is SEO-friendly.",
 		"image": "nyt1.jpg",
 		"url": "https://newyorktour1.com",
 		"date": "January 2017",
