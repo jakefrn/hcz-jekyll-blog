@@ -21,6 +21,7 @@ iframe{
     width: 100%;
 }
 
+.table>tbody>tr>td{border-top:none}
 
 .header-panel.shadow-z-2{
   background-image: linear-gradient(-227deg, #A445AA -25%, #D4185A 81%, #FF0074 100%);
