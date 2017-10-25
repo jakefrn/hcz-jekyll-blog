@@ -1,4 +1,15 @@
 [
+    {
+		"name": "Layout Update to Bookeo",
+        "desc": "For customizing the CSS for the UI, the HTML markup and CSS selectors are un-semantic and poorly named, which makes improving Bookeo's layout difficult.",
+		"image": "http://jakefr.me/static/img/bookeo.jpg",
+		"url": "https://github.com/jakefrn/bookeo-css-improve/",
+		"date": "August 2017",
+		"github": "https://github.com/jakefrn/bookeo-css-improve/",      
+		"tags": ["CSS"]
+	}, 
+  
+  
   	{
 		"name": "Google Script",
         "desc": "A basic script that fetches events from an ICAL URL, parses them, then posts to Google Calendar",
