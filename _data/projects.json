@@ -1,7 +1,7 @@
 [
     {
 		"name": "Layout Update to Bookeo",
-        "desc": "For customizing the CSS for the UI, the HTML markup and CSS selectors are un-semantic and poorly named, which makes improving Bookeo's layout difficult.",
+        "desc": "Bookeo is booking application for websites with a cluttered and dated UI. Worse, the un-semantic markup and poorly named CSS classes make it difficult to style. This is basic upgrade the layout (though I would've like to be able to do much more). ",
 		"image": "bookeocss.jpg",
 		"url": "https://github.com/jakefrn/bookeo-css-improve/",
 		"date": "October 2017",
