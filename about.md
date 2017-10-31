@@ -9,4 +9,4 @@ Currently designing, building, and researching solutions in web, digital marketi
 
 Hobbies include skimming through books, beating my high-score of 500+ hours of podcasts listened to on the Stitcher app, and combating the sedentary lifestyle with the gym, running, and stealthy stretches in the office bathroom. And tea.
 
-(video)[https://jakefrn.daily.co/hello]
+[LinkedIn](www.linkedin.com/in/jakefrn "LinkedIn")
