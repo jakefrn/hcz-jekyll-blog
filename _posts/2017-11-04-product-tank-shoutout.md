@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Thanks for the shout-out (Product Tank Meetup)
 
