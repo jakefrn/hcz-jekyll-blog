@@ -13,7 +13,7 @@ Hobbies include skimming through books, beating my high-score of 700+ hours of p
 
 ---------------------------
 
-**DIGITAL STRATEGIST**   _New York Tour1   New York City    04/2014 - Present_
+**DIGITAL STRATEGIST** -  _New York Tour1   (New York City    04/2014 - Present)_
 
 •  Built and updated websites (newyorktour1.com, 911groundzero.com, thewallstreetexperience.com, insidebroadwaytours.com, LAtour1, paristour1.com) with a lightweight CMS to ensure optimal load times and rendering, responsive design, schema markup, and on-page SEO to help company become the #1, #3, #11, and #12 rated tours on TripAdvisor in NYC
 
@@ -25,13 +25,13 @@ Hobbies include skimming through books, beating my high-score of 700+ hours of p
 
 
 
-**FREELANCE WEB DESIGNER**   _Self         Brooklyn   01/2014 - 05/2014_
+**FREELANCE WEB DESIGNER**  -  _Self         (Brooklyn   01/2014 - 05/2014)_
 
 •  Set up basic WordPress sites for local small business owners after, and provided training, support, and consulting in helping clients manage online properties
 
 
 
-**PRODUCT ASSISTANT**    _DC Connect       New York City   05/2011 -  04/2014_
+**PRODUCT ASSISTANT**  -  _DC Connect       (New York City   05/2011 -  04/2014)_
 
 •  Assembled, configured, and tested components to ensure functionality upon installation
 
