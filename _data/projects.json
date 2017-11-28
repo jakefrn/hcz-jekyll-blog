@@ -54,7 +54,7 @@
 	},
 	{
 		"name": "Interactive Cards Demo App",
-         "desc": "My first time diving into really using React for a web app. It lets you create decks of cards, add text to cards, and interact with them. I took the demo a step further by adding Material Design Lite for a nicer look. [original tutorial: https://code.tutsplus.com/courses/modern-web-apps-with-react-and-redux/ ]",
+         "desc": "My first time diving into React. It lets you create decks of cards, add text to cards, and interact with them. I also added Material Design Lite CSS. [original tutorial: https://code.tutsplus.com/courses/modern-web-apps-with-react-and-redux/ ]",
 		"image": "cards.jpg",
         "url" : "https://deckstudy.herokuapp.com/",
 		"date": "April 2017",
