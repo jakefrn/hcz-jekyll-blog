@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## A comprehensive product management crash-course
 
