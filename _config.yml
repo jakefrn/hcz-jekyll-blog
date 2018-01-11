@@ -3,8 +3,8 @@ description: Portfolio + Blog
 author: Jake
 logo: /static/img/avatar.jpeg
 github: https://github.com/jakefrn
-about: Digital Creative Strategist
-intro: Currently designing, building, and researching solutions in web, digital marketing, and customer experience for a top-rated local tour operator
+about: Digital Strategist
+intro: front-end // analytics // design // product management
 
 baseurl: "http://jakefr.me"
 url: "https://jakefrn.github.io/portfolio"
