@@ -1,7 +1,19 @@
 [
+  
+  	{
+		"name": "Daily Google Calendar Backups to GDrive",
+        "desc": "Google Script that fetches your calendars by ical URL then reguraly saves a backup file to Google Drive folder",
+		"image": "calbackup.jpg",
+		"url": "https://github.com/jakefrn/google-calendar-backups-to-google-drive",
+		"date": "February 2018",
+		"github": "https://github.com/jakefrn/google-calendar-backups-to-google-drive",      
+		"tags": ["Javascript"]
+	},   
+  
+  
     {
-		"name": "Layout Update to Bookeo",
-        "desc": "Bookeo is booking application for websites with a cluttered and dated UI. Worse, the un-semantic markup and poorly named CSS classes make it difficult to style. This is basic upgrade the layout. ",
+		"name": "CSS Update to Bookeo",
+        "desc": "Bookeo is booking application with a dated UI, and un-semantic markup which makes it difficult to stylize. This is basic attempt to make it look cleaner. ",
 		"image": "bookeocss.jpg",
 		"url": "https://github.com/jakefrn/bookeo-css-improve/",
 		"date": "October 2017",
@@ -11,7 +23,7 @@
   
   
   	{
-		"name": "Google Script",
+		"name": "Post ical by URL to Google Cal",
         "desc": "A basic script that fetches events from an ICAL URL, parses them, then posts to Google Calendar",
 		"image": "gcal.jpg",
 		"url": "https://github.com/jakefrn/icaltogooglecal",
@@ -21,7 +33,7 @@
 	},  
   	{
 		"name": "Content scraping theskint.com",
-        "desc": "A weekend project- For years I've checked theskint.com for things to do in NYC. To make saving events a little easier, I built this basic app to scrape the content and feed it into a checklist.",
+        "desc": "For years I've checked theskint.com for things to do in NYC. To make saving events a little easier, I built this basic app to scrape the content and feed it into a checklist format.",
 		"image": "skint.jpg",
 		"url": "https://glacial-taiga-12612.herokuapp.com/",
 		"date": "September 2017",
