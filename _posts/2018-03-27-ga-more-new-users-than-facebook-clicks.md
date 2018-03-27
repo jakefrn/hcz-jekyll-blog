@@ -5,7 +5,8 @@ published: true
 
 There's already a very [helpful article](http://www.stateofdigital.com/facebook-ads-google-analytics-data-mismatch/) about reasons for differences in reported traffic between these platforms, but each of the scenarios described are when traffic in Google Analytics in LESS than Facebook's reported Link Clicks for a campaign. In my case I was seeing the opposite- more New Users in GA coming from "facebook / cpc" than FB's reported Link Clicks, how could this be possible?
 
-![facebook-analytics-1.jpg]({{site.baseurl}}/_posts/facebook-analytics-1.jpg)
+![facebook-analytics-1.jpg]({{site.baseurl}}/static/img/facebook-analytics-1.jpg)
+
 
 Assuming you're using UTM parameters in your FB ad sets, it's possible that this UTM-tagged URL is now "out there" being shared on other sources (e.g. linked on another website, in an email newsletter, etc.). So when someone clicks on it, off of Facebook, GA now attributes that new user as "source=facebook" and "medium=cpc." You can investigate this potential issue by creating a custom segment in GA with source/medium set to "facebook / cpc" (or whatever convention your UTM was manually configured to), then pulling up the "Referral Traffic" report. 
 
