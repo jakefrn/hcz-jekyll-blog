@@ -14,4 +14,4 @@ In my case, there was nothing under the Referral report, so with same segmented 
 
 ![facebook-analytics-2.jpg]({{site.baseurl}}/static/img/facebook-analytics-2.jpg)
 
-After posting my findings in the #Measure Slack (a community for analytics and SEM), it was pointed out by [@williamvicary](https://medium.com/@williamvicary) that Facebook filters out link clicks from bots; while GA does not (or at least, not exactly the same way). So subtracted those 80ish spam "users" gets me 110 New Users in GA which is close enough (for me) to what FB was reporting.
+After posting my findings in the #Measure Slack (a community for analytics and SEM), it was pointed out by [@williamvicary](https://medium.com/@williamvicary) that Facebook filters out link clicks from bots; and GA filters out bot traffic but in its own way- but. So subtracted those 80ish spam "users" gets me 110 New Users in GA which is close enough (for me) to what FB was reporting.
